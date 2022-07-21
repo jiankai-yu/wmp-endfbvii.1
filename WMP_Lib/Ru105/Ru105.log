@@ -1,0 +1,504 @@
+Running NJOY to get 0K point-wise data (error=0.0005)...
+Parsing cross sections within resolved resonance range...
+  MTs: [2, 27, 102]
+  Energy range: 1.000e-05 to 2.080e+04 eV (640 points)
+Vector fitting piece 1/1...
+  energy: 1.000e-05 to 2.080e+04 eV (640 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 2 peaks
+Fitting orders from 4 to 200
+Order=4(0/99)
+Order=6(1/99)
+Order=8(2/99)
+Order=10(3/99)
+Order=12(4/99)
+Order=14(5/99)
+Order=16(6/99)
+Order=18(7/99)
+Order=20(8/99)
+Order=22(9/99)
+Order=24(10/99)
+Order=26(11/99)
+Order=28(12/99)
+Order=30(13/99)
+Order=32(14/99)
+Order=34(15/99)
+Order=36(16/99)
+Order=38(17/99)
+Order=40(18/99)
+Order=42(19/99)
+Order=44(20/99)
+Order=46(21/99)
+Order=48(22/99)
+Order=50(23/99)
+Order=52(24/99)
+Order=54(25/99)
+Order=56(26/99)
+Order=58(27/99)
+Order=60(28/99)
+Found 2 real poles and 16 conjugate complex pairs.
+Final number of poles: 18
+Saved figure: WMP_Lib/Ru105/0-20798_MT2.png
+Saved figure: WMP_Lib/Ru105/0-20798_MT27.png
+Saved figure: WMP_Lib/Ru105/0-20798_MT102.png
+Dumped multipole data to file: WMP_Lib/Ru105/Ru105_mp.pickle
+Start searching ...
+Testing N_win=5 N_cf=10
+Windowing:
+  config: # windows=5, spacing=28.842439502912335, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=110 N_cf=10
+Windowing:
+  config: # windows=110, spacing=1.3110199774051061, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=215 N_cf=10
+Windowing:
+  config: # windows=215, spacing=0.6707544070444729, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=320 N_cf=10
+Windowing:
+  config: # windows=320, spacing=0.45066311723300523, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=425 N_cf=10
+Windowing:
+  config: # windows=425, spacing=0.33932281768132155, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=530 N_cf=10
+Windowing:
+  config: # windows=530, spacing=0.27209848587653146, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=635 N_cf=10
+Windowing:
+  config: # windows=635, spacing=0.22710582285757744, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=740 N_cf=10
+Windowing:
+  config: # windows=740, spacing=0.1948813479926509, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=845 N_cf=10
+Windowing:
+  config: # windows=845, spacing=0.17066532250243985, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=950 N_cf=10
+Windowing:
+  config: # windows=950, spacing=0.15180231317322282, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1055 N_cf=10
+Windowing:
+  config: # windows=1055, spacing=0.13669402608015324, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1160 N_cf=10
+Windowing:
+  config: # windows=1160, spacing=0.12432085992634627, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1265 N_cf=10
+Windowing:
+  config: # windows=1265, spacing=0.1140017371656614, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1370 N_cf=10
+Windowing:
+  config: # windows=1370, spacing=0.10526437774785523, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1475 N_cf=10
+Windowing:
+  config: # windows=1475, spacing=0.09777098136580452, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1580 N_cf=10
+Windowing:
+  config: # windows=1580, spacing=0.09127354273073524, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1685 N_cf=10
+Windowing:
+  config: # windows=1685, spacing=0.08558587389588229, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1790 N_cf=10
+Windowing:
+  config: # windows=1790, spacing=0.08056547347182216, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1895 N_cf=10
+Windowing:
+  config: # windows=1895, spacing=0.07610142349053386, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=2000 N_cf=10
+Windowing:
+  config: # windows=2000, spacing=0.07210609875728083, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Running NJOY to get 0K point-wise data (error=0.0005)...
+Parsing cross sections within resolved resonance range...
+  MTs: [2, 27, 102]
+  Energy range: 1.000e-05 to 2.080e+04 eV (640 points)
+Vector fitting piece 1/1...
+  energy: 1.000e-05 to 2.080e+04 eV (640 points)
+  error tolerance: rtol=0.005, atol=1e-05
+Found 2 peaks
+Fitting orders from 4 to 200
+Order=4(0/99)
+Order=6(1/99)
+Order=8(2/99)
+Order=10(3/99)
+Order=12(4/99)
+Order=14(5/99)
+Order=16(6/99)
+Order=18(7/99)
+Order=20(8/99)
+Order=22(9/99)
+Order=24(10/99)
+Order=26(11/99)
+Order=28(12/99)
+Order=30(13/99)
+Order=32(14/99)
+Order=34(15/99)
+Order=36(16/99)
+Order=38(17/99)
+Order=40(18/99)
+Order=42(19/99)
+Order=44(20/99)
+Order=46(21/99)
+Order=48(22/99)
+Order=50(23/99)
+Order=52(24/99)
+Order=54(25/99)
+Order=56(26/99)
+Order=58(27/99)
+Order=60(28/99)
+Found 2 real poles and 13 conjugate complex pairs.
+Final number of poles: 15
+Saved figure: WMP_Lib/Ru105/0-20798_MT2.png
+Saved figure: WMP_Lib/Ru105/0-20798_MT27.png
+Saved figure: WMP_Lib/Ru105/0-20798_MT102.png
+Dumped multipole data to file: WMP_Lib/Ru105/Ru105_mp.pickle
+Start searching ...
+Testing N_win=5 N_cf=10
+Windowing:
+  config: # windows=5, spacing=28.842439502912335, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=110 N_cf=10
+Windowing:
+  config: # windows=110, spacing=1.3110199774051061, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=215 N_cf=10
+Windowing:
+  config: # windows=215, spacing=0.6707544070444729, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=320 N_cf=10
+Windowing:
+  config: # windows=320, spacing=0.45066311723300523, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=425 N_cf=10
+Windowing:
+  config: # windows=425, spacing=0.33932281768132155, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Best library so far.
+Testing N_win=425 N_cf=9
+Windowing:
+  config: # windows=425, spacing=0.33932281768132155, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=530 N_cf=10
+Windowing:
+  config: # windows=530, spacing=0.27209848587653146, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=530 N_cf=9
+Windowing:
+  config: # windows=530, spacing=0.27209848587653146, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=530 N_cf=8
+Windowing:
+  config: # windows=530, spacing=0.27209848587653146, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=635 N_cf=10
+Windowing:
+  config: # windows=635, spacing=0.22710582285757744, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=635 N_cf=9
+Windowing:
+  config: # windows=635, spacing=0.22710582285757744, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=635 N_cf=8
+Windowing:
+  config: # windows=635, spacing=0.22710582285757744, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=740 N_cf=10
+Windowing:
+  config: # windows=740, spacing=0.1948813479926509, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=740 N_cf=9
+Windowing:
+  config: # windows=740, spacing=0.1948813479926509, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=740 N_cf=8
+Windowing:
+  config: # windows=740, spacing=0.1948813479926509, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=740 N_cf=7
+Windowing:
+  config: # windows=740, spacing=0.1948813479926509, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=845 N_cf=10
+Windowing:
+  config: # windows=845, spacing=0.17066532250243985, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=845 N_cf=9
+Windowing:
+  config: # windows=845, spacing=0.17066532250243985, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=845 N_cf=8
+Windowing:
+  config: # windows=845, spacing=0.17066532250243985, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=845 N_cf=7
+Windowing:
+  config: # windows=845, spacing=0.17066532250243985, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=950 N_cf=10
+Windowing:
+  config: # windows=950, spacing=0.15180231317322282, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=950 N_cf=9
+Windowing:
+  config: # windows=950, spacing=0.15180231317322282, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=950 N_cf=8
+Windowing:
+  config: # windows=950, spacing=0.15180231317322282, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=950 N_cf=7
+Windowing:
+  config: # windows=950, spacing=0.15180231317322282, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1055 N_cf=10
+Windowing:
+  config: # windows=1055, spacing=0.13669402608015324, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1055 N_cf=9
+Windowing:
+  config: # windows=1055, spacing=0.13669402608015324, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1055 N_cf=8
+Windowing:
+  config: # windows=1055, spacing=0.13669402608015324, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1055 N_cf=7
+Windowing:
+  config: # windows=1055, spacing=0.13669402608015324, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1160 N_cf=10
+Windowing:
+  config: # windows=1160, spacing=0.12432085992634627, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1160 N_cf=9
+Windowing:
+  config: # windows=1160, spacing=0.12432085992634627, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1160 N_cf=8
+Windowing:
+  config: # windows=1160, spacing=0.12432085992634627, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1160 N_cf=7
+Windowing:
+  config: # windows=1160, spacing=0.12432085992634627, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1160 N_cf=6
+Windowing:
+  config: # windows=1160, spacing=0.12432085992634627, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1265 N_cf=10
+Windowing:
+  config: # windows=1265, spacing=0.1140017371656614, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1265 N_cf=9
+Windowing:
+  config: # windows=1265, spacing=0.1140017371656614, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1265 N_cf=8
+Windowing:
+  config: # windows=1265, spacing=0.1140017371656614, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1265 N_cf=7
+Windowing:
+  config: # windows=1265, spacing=0.1140017371656614, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1265 N_cf=6
+Windowing:
+  config: # windows=1265, spacing=0.1140017371656614, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1370 N_cf=10
+Windowing:
+  config: # windows=1370, spacing=0.10526437774785523, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1370 N_cf=9
+Windowing:
+  config: # windows=1370, spacing=0.10526437774785523, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1370 N_cf=8
+Windowing:
+  config: # windows=1370, spacing=0.10526437774785523, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1370 N_cf=7
+Windowing:
+  config: # windows=1370, spacing=0.10526437774785523, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1370 N_cf=6
+Windowing:
+  config: # windows=1370, spacing=0.10526437774785523, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1475 N_cf=10
+Windowing:
+  config: # windows=1475, spacing=0.09777098136580452, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1475 N_cf=9
+Windowing:
+  config: # windows=1475, spacing=0.09777098136580452, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1475 N_cf=8
+Windowing:
+  config: # windows=1475, spacing=0.09777098136580452, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1475 N_cf=7
+Windowing:
+  config: # windows=1475, spacing=0.09777098136580452, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1475 N_cf=6
+Windowing:
+  config: # windows=1475, spacing=0.09777098136580452, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1580 N_cf=10
+Windowing:
+  config: # windows=1580, spacing=0.09127354273073524, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1580 N_cf=9
+Windowing:
+  config: # windows=1580, spacing=0.09127354273073524, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1580 N_cf=8
+Windowing:
+  config: # windows=1580, spacing=0.09127354273073524, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1580 N_cf=7
+Windowing:
+  config: # windows=1580, spacing=0.09127354273073524, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1580 N_cf=6
+Windowing:
+  config: # windows=1580, spacing=0.09127354273073524, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1685 N_cf=10
+Windowing:
+  config: # windows=1685, spacing=0.08558587389588229, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1685 N_cf=9
+Windowing:
+  config: # windows=1685, spacing=0.08558587389588229, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1685 N_cf=8
+Windowing:
+  config: # windows=1685, spacing=0.08558587389588229, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1685 N_cf=7
+Windowing:
+  config: # windows=1685, spacing=0.08558587389588229, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1685 N_cf=6
+Windowing:
+  config: # windows=1685, spacing=0.08558587389588229, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1790 N_cf=10
+Windowing:
+  config: # windows=1790, spacing=0.08056547347182216, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1790 N_cf=9
+Windowing:
+  config: # windows=1790, spacing=0.08056547347182216, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1790 N_cf=8
+Windowing:
+  config: # windows=1790, spacing=0.08056547347182216, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1790 N_cf=7
+Windowing:
+  config: # windows=1790, spacing=0.08056547347182216, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1790 N_cf=6
+Windowing:
+  config: # windows=1790, spacing=0.08056547347182216, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=1895 N_cf=10
+Windowing:
+  config: # windows=1895, spacing=0.07610142349053386, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1895 N_cf=9
+Windowing:
+  config: # windows=1895, spacing=0.07610142349053386, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1895 N_cf=8
+Windowing:
+  config: # windows=1895, spacing=0.07610142349053386, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1895 N_cf=7
+Windowing:
+  config: # windows=1895, spacing=0.07610142349053386, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=1895 N_cf=6
+Windowing:
+  config: # windows=1895, spacing=0.07610142349053386, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=2000 N_cf=10
+Windowing:
+  config: # windows=2000, spacing=0.07210609875728083, CF order=10
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=2000 N_cf=9
+Windowing:
+  config: # windows=2000, spacing=0.07210609875728083, CF order=9
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=2000 N_cf=8
+Windowing:
+  config: # windows=2000, spacing=0.07210609875728083, CF order=8
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=2000 N_cf=7
+Windowing:
+  config: # windows=2000, spacing=0.07210609875728083, CF order=7
+  error tolerance: rtol=0.005, atol=1e-05
+Testing N_win=2000 N_cf=6
+Windowing:
+  config: # windows=2000, spacing=0.07210609875728083, CF order=6
+  error tolerance: rtol=0.005, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Final library: 3 poles, 425 windows, 0.031 poles per window, 10 CF order

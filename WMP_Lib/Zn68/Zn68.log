@@ -1,0 +1,1156 @@
+Running NJOY to get 0K point-wise data (error=0.0005)...
+Parsing cross sections within resolved resonance range...
+  MTs: [2, 27, 102]
+  Energy range: 1.000e-05 to 1.050e+05 eV (26357 points)
+Vector fitting piece 1/13...
+  energy: 1.000e-05 to 6.368e+02 eV (1234 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 1 peaks
+Fitting orders from 2 to 200
+Order=2(0/100)
+Order=4(1/100)
+Order=6(2/100)
+Order=8(3/100)
+Order=10(4/100)
+Order=12(5/100)
+Order=14(6/100)
+Order=16(7/100)
+Order=18(8/100)
+Order=20(9/100)
+Order=22(10/100)
+Order=24(11/100)
+Order=26(12/100)
+Order=28(13/100)
+Order=30(14/100)
+Order=32(15/100)
+Order=34(16/100)
+Order=36(17/100)
+Order=38(18/100)
+Order=40(19/100)
+Order=42(20/100)
+Order=44(21/100)
+Order=46(22/100)
+Order=48(23/100)
+Order=50(24/100)
+Order=52(25/100)
+Order=54(26/100)
+Order=56(27/100)
+Order=58(28/100)
+Order=60(29/100)
+Found 2 real poles and 2 conjugate complex pairs.
+Final number of poles: 4
+Saved figure: WMP_Lib/Zn68/0-637_MT2.png
+Saved figure: WMP_Lib/Zn68/0-637_MT27.png
+Saved figure: WMP_Lib/Zn68/0-637_MT102.png
+Vector fitting piece 2/13...
+  energy: 1.438e+02 to 2.619e+03 eV (758 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 1 peaks
+Fitting orders from 2 to 200
+Order=2(0/100)
+Order=4(1/100)
+Order=6(2/100)
+Order=8(3/100)
+Order=10(4/100)
+Order=12(5/100)
+Order=14(6/100)
+Order=16(7/100)
+Order=18(8/100)
+Order=20(9/100)
+Order=22(10/100)
+Order=24(11/100)
+Order=26(12/100)
+Order=28(13/100)
+Order=30(14/100)
+Order=32(15/100)
+Order=34(16/100)
+Order=36(17/100)
+Order=38(18/100)
+Order=40(19/100)
+Order=42(20/100)
+Order=44(21/100)
+Order=46(22/100)
+Order=48(23/100)
+Order=50(24/100)
+Order=52(25/100)
+Order=54(26/100)
+Order=56(27/100)
+Order=58(28/100)
+Order=60(29/100)
+Found 2 real poles and 2 conjugate complex pairs.
+Final number of poles: 4
+Saved figure: WMP_Lib/Zn68/144-2619_MT2.png
+Saved figure: WMP_Lib/Zn68/144-2619_MT27.png
+Saved figure: WMP_Lib/Zn68/144-2619_MT102.png
+Vector fitting piece 3/13...
+  energy: 1.375e+03 to 5.652e+03 eV (1149 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 2 peaks
+Fitting orders from 4 to 200
+Order=4(0/99)
+Order=6(1/99)
+Order=8(2/99)
+Order=10(3/99)
+Order=12(4/99)
+Order=14(5/99)
+Order=16(6/99)
+Order=18(7/99)
+Order=20(8/99)
+Order=22(9/99)
+Order=24(10/99)
+Order=26(11/99)
+Order=28(12/99)
+Order=30(13/99)
+Order=32(14/99)
+Order=34(15/99)
+Order=36(16/99)
+Order=38(17/99)
+Order=40(18/99)
+Order=42(19/99)
+Order=44(20/99)
+Order=46(21/99)
+Order=48(22/99)
+Order=50(23/99)
+Order=52(24/99)
+Order=54(25/99)
+Order=56(26/99)
+Order=58(27/99)
+Order=60(28/99)
+Found 1 real poles and 4 conjugate complex pairs.
+Final number of poles: 5
+Saved figure: WMP_Lib/Zn68/1375-5652_MT2.png
+Saved figure: WMP_Lib/Zn68/1375-5652_MT27.png
+Saved figure: WMP_Lib/Zn68/1375-5652_MT102.png
+Vector fitting piece 4/13...
+  energy: 3.853e+03 to 1.003e+04 eV (2210 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 5 peaks
+Fitting orders from 10 to 200
+Order=10(0/96)
+Order=12(1/96)
+Order=14(2/96)
+Order=16(3/96)
+Order=18(4/96)
+Order=20(5/96)
+Order=22(6/96)
+Order=24(7/96)
+Order=26(8/96)
+Order=28(9/96)
+Order=30(10/96)
+Order=32(11/96)
+Order=34(12/96)
+Order=36(13/96)
+Order=38(14/96)
+Order=40(15/96)
+Order=42(16/96)
+Order=44(17/96)
+Order=46(18/96)
+Order=48(19/96)
+Order=50(20/96)
+Order=52(21/96)
+Order=54(22/96)
+Order=56(23/96)
+Order=58(24/96)
+Order=60(25/96)
+Found 2 real poles and 7 conjugate complex pairs.
+Final number of poles: 9
+Saved figure: WMP_Lib/Zn68/3853-10033_MT2.png
+Saved figure: WMP_Lib/Zn68/3853-10033_MT27.png
+Saved figure: WMP_Lib/Zn68/3853-10033_MT102.png
+Vector fitting piece 5/13...
+  energy: 7.564e+03 to 1.562e+04 eV (2024 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 6 peaks
+Fitting orders from 12 to 200
+Order=12(0/95)
+Order=14(1/95)
+Order=16(2/95)
+Order=18(3/95)
+Order=20(4/95)
+Order=22(5/95)
+Order=24(6/95)
+Order=26(7/95)
+Order=28(8/95)
+Order=30(9/95)
+Order=32(10/95)
+Order=34(11/95)
+Order=36(12/95)
+Order=38(13/95)
+Order=40(14/95)
+Order=42(15/95)
+Order=44(16/95)
+Order=46(17/95)
+Order=48(18/95)
+Order=50(19/95)
+Order=52(20/95)
+Order=54(21/95)
+Order=56(22/95)
+Order=58(23/95)
+Order=60(24/95)
+Order=62(25/95)
+Order=64(26/95)
+Order=66(27/95)
+Order=68(28/95)
+Order=70(29/95)
+Found 2 real poles and 8 conjugate complex pairs.
+Final number of poles: 10
+Saved figure: WMP_Lib/Zn68/7564-15624_MT2.png
+Saved figure: WMP_Lib/Zn68/7564-15624_MT27.png
+Saved figure: WMP_Lib/Zn68/7564-15624_MT102.png
+Vector fitting piece 6/13...
+  energy: 1.251e+04 to 2.249e+04 eV (2774 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 9 peaks
+Fitting orders from 18 to 200
+Order=18(0/92)
+Order=20(1/92)
+Order=22(2/92)
+Order=24(3/92)
+Order=26(4/92)
+Order=28(5/92)
+Order=30(6/92)
+Order=32(7/92)
+Order=34(8/92)
+Order=36(9/92)
+Order=38(10/92)
+Order=40(11/92)
+Order=42(12/92)
+Order=44(13/92)
+Order=46(14/92)
+Order=48(15/92)
+Order=50(16/92)
+Order=52(17/92)
+Order=54(18/92)
+Order=56(19/92)
+Order=58(20/92)
+Order=60(21/92)
+Order=62(22/92)
+Order=64(23/92)
+Order=66(24/92)
+Order=68(25/92)
+Order=70(26/92)
+Found 2 real poles and 10 conjugate complex pairs.
+Final number of poles: 12
+Saved figure: WMP_Lib/Zn68/12506-22488_MT2.png
+Saved figure: WMP_Lib/Zn68/12506-22488_MT27.png
+Saved figure: WMP_Lib/Zn68/12506-22488_MT102.png
+Vector fitting piece 7/13...
+  energy: 1.872e+04 to 3.066e+04 eV (3040 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 10 peaks
+Fitting orders from 20 to 200
+Order=20(0/91)
+Order=22(1/91)
+Order=24(2/91)
+Order=26(3/91)
+Order=28(4/91)
+Order=30(5/91)
+Order=32(6/91)
+Order=34(7/91)
+Order=36(8/91)
+Order=38(9/91)
+Order=40(10/91)
+Order=42(11/91)
+Order=44(12/91)
+Order=46(13/91)
+Order=48(14/91)
+Order=50(15/91)
+Order=52(16/91)
+Order=54(17/91)
+Order=56(18/91)
+Order=58(19/91)
+Order=60(20/91)
+Order=62(21/91)
+Order=64(22/91)
+Order=66(23/91)
+Order=68(24/91)
+Order=70(25/91)
+Found 2 real poles and 11 conjugate complex pairs.
+Final number of poles: 13
+Saved figure: WMP_Lib/Zn68/18723-30659_MT2.png
+Saved figure: WMP_Lib/Zn68/18723-30659_MT27.png
+Saved figure: WMP_Lib/Zn68/18723-30659_MT102.png
+Vector fitting piece 8/13...
+  energy: 2.617e+04 to 3.990e+04 eV (3911 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 14 peaks
+Fitting orders from 28 to 200
+Order=28(0/87)
+Order=30(1/87)
+Order=32(2/87)
+Order=34(3/87)
+Order=36(4/87)
+Order=38(5/87)
+Order=40(6/87)
+Order=42(7/87)
+Order=44(8/87)
+Order=46(9/87)
+Order=48(10/87)
+Order=50(11/87)
+Order=52(12/87)
+Order=54(13/87)
+Order=56(14/87)
+Order=58(15/87)
+Order=60(16/87)
+Order=62(17/87)
+Order=64(18/87)
+Order=66(19/87)
+Order=68(20/87)
+Order=70(21/87)
+Found 4 real poles and 14 conjugate complex pairs.
+Final number of poles: 18
+Saved figure: WMP_Lib/Zn68/26170-39904_MT2.png
+Saved figure: WMP_Lib/Zn68/26170-39904_MT27.png
+Saved figure: WMP_Lib/Zn68/26170-39904_MT102.png
+Vector fitting piece 9/13...
+  energy: 3.486e+04 to 5.044e+04 eV (3741 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 15 peaks
+Fitting orders from 30 to 200
+Order=30(0/86)
+Order=32(1/86)
+Order=34(2/86)
+Order=36(3/86)
+Order=38(4/86)
+Order=40(5/86)
+Order=42(6/86)
+Order=44(7/86)
+Order=46(8/86)
+Order=48(9/86)
+Order=50(10/86)
+Order=52(11/86)
+Order=54(12/86)
+Order=56(13/86)
+Order=58(14/86)
+Order=60(15/86)
+Order=62(16/86)
+Order=64(17/86)
+Order=66(18/86)
+Order=68(19/86)
+Order=70(20/86)
+Found 2 real poles and 18 conjugate complex pairs.
+Final number of poles: 20
+Saved figure: WMP_Lib/Zn68/34856-50440_MT2.png
+Saved figure: WMP_Lib/Zn68/34856-50440_MT27.png
+Saved figure: WMP_Lib/Zn68/34856-50440_MT102.png
+Vector fitting piece 10/13...
+  energy: 4.478e+04 to 6.226e+04 eV (4437 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 20 peaks
+Fitting orders from 40 to 200
+Order=40(0/81)
+Order=42(1/81)
+Order=44(2/81)
+Order=46(3/81)
+Order=48(4/81)
+Order=50(5/81)
+Order=52(6/81)
+Order=54(7/81)
+Order=56(8/81)
+Order=58(9/81)
+Order=60(10/81)
+Order=62(11/81)
+Order=64(12/81)
+Order=66(13/81)
+Order=68(14/81)
+Order=70(15/81)
+Found 6 real poles and 20 conjugate complex pairs.
+Final number of poles: 26
+Saved figure: WMP_Lib/Zn68/44783-62264_MT2.png
+Saved figure: WMP_Lib/Zn68/44783-62264_MT27.png
+Saved figure: WMP_Lib/Zn68/44783-62264_MT102.png
+Vector fitting piece 11/13...
+  energy: 5.595e+04 to 7.532e+04 eV (3773 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 17 peaks
+Fitting orders from 34 to 200
+Order=34(0/84)
+Order=36(1/84)
+Order=38(2/84)
+Order=40(3/84)
+Order=42(4/84)
+Order=44(5/84)
+Order=46(6/84)
+Order=48(7/84)
+Order=50(8/84)
+Order=52(9/84)
+Order=54(10/84)
+Order=56(11/84)
+Order=58(12/84)
+Order=60(13/84)
+Order=62(14/84)
+Order=64(15/84)
+Order=66(16/84)
+Order=68(17/84)
+Order=70(18/84)
+Found 4 real poles and 18 conjugate complex pairs.
+Final number of poles: 22
+Saved figure: WMP_Lib/Zn68/55950-75321_MT2.png
+Saved figure: WMP_Lib/Zn68/55950-75321_MT27.png
+Saved figure: WMP_Lib/Zn68/55950-75321_MT102.png
+Vector fitting piece 12/13...
+  energy: 6.836e+04 to 8.968e+04 eV (4913 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 22 peaks
+Fitting orders from 44 to 200
+Order=44(0/79)
+Order=46(1/79)
+Order=48(2/79)
+Order=50(3/79)
+Order=52(4/79)
+Order=54(5/79)
+Order=56(6/79)
+Order=58(7/79)
+Order=60(8/79)
+Order=62(9/79)
+Order=64(10/79)
+Order=66(11/79)
+Order=68(12/79)
+Order=70(13/79)
+Found 4 real poles and 23 conjugate complex pairs.
+Final number of poles: 27
+Saved figure: WMP_Lib/Zn68/68358-89684_MT2.png
+Saved figure: WMP_Lib/Zn68/68358-89684_MT27.png
+Saved figure: WMP_Lib/Zn68/68358-89684_MT102.png
+Vector fitting piece 13/13...
+  energy: 8.201e+04 to 1.050e+05 eV (5049 points)
+  error tolerance: rtol=0.001, atol=1e-05
+Found 25 peaks
+Fitting orders from 50 to 200
+Order=50(0/76)
+Order=52(1/76)
+Order=54(2/76)
+Order=56(3/76)
+Order=58(4/76)
+Order=60(5/76)
+Order=62(6/76)
+Order=64(7/76)
+Order=66(8/76)
+Order=68(9/76)
+Order=70(10/76)
+Order=72(11/76)
+Order=74(12/76)
+Order=76(13/76)
+Order=78(14/76)
+Order=80(15/76)
+Found 6 real poles and 27 conjugate complex pairs.
+Final number of poles: 33
+Saved figure: WMP_Lib/Zn68/82012-105000_MT2.png
+Saved figure: WMP_Lib/Zn68/82012-105000_MT27.png
+Saved figure: WMP_Lib/Zn68/82012-105000_MT102.png
+Dumped multipole data to file: WMP_Lib/Zn68/Zn68_mp.pickle
+Start searching ...
+Testing N_win=10 N_cf=10
+Failed: Window spacing cannot be larger than piece spacing.
+Testing N_win=114 N_cf=10
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=9
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=8
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=7
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=6
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=5
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=4
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=3
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=114 N_cf=2
+Windowing:
+  config: # windows=114, spacing=2.8424091592856504, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=219 N_cf=10
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=9
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=8
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=7
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=6
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=5
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=4
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=3
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=219 N_cf=2
+Windowing:
+  config: # windows=219, spacing=1.4796102472993797, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Failed: Pure curvefit failed for the first window!
+Testing N_win=324 N_cf=10
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=324 N_cf=9
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=324 N_cf=8
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=324 N_cf=7
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=324 N_cf=6
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=324 N_cf=5
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=324 N_cf=4
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=324 N_cf=3
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=324 N_cf=2
+Windowing:
+  config: # windows=324, spacing=1.0001069264153215, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=428 N_cf=10
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=428 N_cf=9
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=428 N_cf=8
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=428 N_cf=7
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=428 N_cf=6
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=428 N_cf=5
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=428 N_cf=4
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=428 N_cf=3
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=428 N_cf=2
+Windowing:
+  config: # windows=428, spacing=0.7570902900901032, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=533 N_cf=10
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=9
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=8
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=7
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=6
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=5
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=4
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=3
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=533 N_cf=2
+Windowing:
+  config: # windows=533, spacing=0.6079449233744169, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Best library so far.
+Testing N_win=638 N_cf=10
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=9
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=8
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=7
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=6
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=5
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=4
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=3
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=638 N_cf=2
+Windowing:
+  config: # windows=638, spacing=0.5078912917845834, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=10
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=9
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=8
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=7
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=6
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=5
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=4
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=3
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=743 N_cf=2
+Windowing:
+  config: # windows=743, spacing=0.43611661394153994, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=10
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=9
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=8
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=7
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=6
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=5
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=4
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=3
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=847 N_cf=2
+Windowing:
+  config: # windows=847, spacing=0.3825674665390368, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=10
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=9
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=8
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=7
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=6
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=5
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=4
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=3
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=952 N_cf=2
+Windowing:
+  config: # windows=952, spacing=0.34037252537664303, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=10
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=9
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=8
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=7
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=6
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=5
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=4
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=3
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1057 N_cf=2
+Windowing:
+  config: # windows=1057, spacing=0.30656068510744006, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=10
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=9
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=8
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=7
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=6
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=5
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=4
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=3
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1162 N_cf=2
+Windowing:
+  config: # windows=1162, spacing=0.27885941838086414, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=10
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=9
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=8
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=7
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=6
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=5
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=4
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=3
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1266 N_cf=2
+Windowing:
+  config: # windows=1266, spacing=0.25595153567027185, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=10
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=9
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=8
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=7
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=6
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=5
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=4
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=3
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1371 N_cf=2
+Windowing:
+  config: # windows=1371, spacing=0.23634912046576526, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=10
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=9
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=8
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=7
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=6
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=5
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=4
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=3
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1476 N_cf=2
+Windowing:
+  config: # windows=1476, spacing=0.21953566677409497, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=10
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=9
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=8
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=7
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=6
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=5
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=4
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=3
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1581 N_cf=2
+Windowing:
+  config: # windows=1581, spacing=0.20495549915152697, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=10
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=9
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=8
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=7
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=6
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=5
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=4
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=3
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1685 N_cf=2
+Windowing:
+  config: # windows=1685, spacing=0.19230542680033483, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=10
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=9
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=8
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=7
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=6
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=5
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=4
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=3
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1790 N_cf=2
+Windowing:
+  config: # windows=1790, spacing=0.18102494087070622, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=10
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=9
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=8
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=7
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=6
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=5
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=4
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=3
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=1895 N_cf=2
+Windowing:
+  config: # windows=1895, spacing=0.1709945351760233, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=10
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=10
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=9
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=9
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=8
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=8
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=7
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=7
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=6
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=6
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=5
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=5
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=4
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=4
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=3
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=3
+  error tolerance: rtol=0.001, atol=1e-05
+Testing N_win=2000 N_cf=2
+Windowing:
+  config: # windows=2000, spacing=0.16201732207928207, CF order=2
+  error tolerance: rtol=0.001, atol=1e-05
+Final library: 115 poles, 533 windows, 1.1 poles per window, 2 CF order
